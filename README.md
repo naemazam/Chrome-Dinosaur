@@ -9,7 +9,7 @@ simple chrome offline T-rex Runner game  clone using html CSS and JS
 
 ![](http://officechai.com/wp-content/uploads/2018/09/Dino_non-birthday_version.gif)
 
- [Play Now]() 
+ [Play Now](https://naemazam.github.io/Chrome-Dinosaur/) 
 ## Real History
 
 “The idea of “an endless runner” as an easter egg within the “you-are-offline” page was born in early 2014,” says Sebastien Gabriel from the Chrome design team, who co-created the game. “It’s a play on going back to the “prehistoric age” when you had no Wi‑Fi,” he says. “There’s nothing fun about getting kicked offline—unless you have a friendly T-Rex to keep you company, that is,” adds Chrome UX engineer Edward Jung, on why the Dino game was created.
